@@ -1,0 +1,1 @@
+[04-Aug-2025 15:52:35 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/uine1327/public_html/rpl-alihjenjang-utm.uinfaq.org/vendor/composer/platform_check.php on line 28
